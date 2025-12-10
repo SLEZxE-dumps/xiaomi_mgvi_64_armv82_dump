@@ -1,0 +1,60 @@
+{
+  "localId": "8a0a6dec-db9a-4ad0-98d0-5803d15d62de",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "8e9fc78edc39fb75765a6df4fef9f8b4479f6004",
+  "platform": 17,
+  "size": 1758122,
+  "updatedTime": 0,
+  "version": "3.0",
+  "authors": {
+    "fallback": "MIUI"
+  },
+  "designers": {
+    "fallback": "MIUI"
+  },
+  "titles": {
+    "fallback": "Note 13 AAPE 潮流版主题"
+  },
+  "descriptions": {
+    "fallback": "你的专属潮流定制主题，融合AAPE经典MOON FACE猿颜及标志性迷彩元素，深度定制开机动画、桌面壁纸及图标，还有 4 款时尚配色供你自由切换，充电状态更拥有惊喜彩蛋！"
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_clock_2x4_0.png"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_clock_2x4_0.png"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "7bf35754-2d9e-4a76-92f2-fd9f0f3b04b7",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": "/product/etc/precust_theme/theme/.data/rights/theme/fdebe3a612d6a21d109a230f3484fcc5f7caf023.mra",
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "packageName": null,
+  "officialIcons": false,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "themeType": 0,
+  "miuiAdapterVersion": "3.2"
+}
