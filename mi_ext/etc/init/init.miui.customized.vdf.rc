@@ -1,0 +1,4 @@
+    mount overlay overlay system_ext/app lowerdir=/mnt/vendor/mi_ext/system_ext/app:system_ext/app
+    mount overlay overlay system_ext/priv-app lowerdir=/mnt/vendor/mi_ext/system_ext/priv-app:system_ext/priv-app
+on property:persist.sys.cota.carrier=VF
+    setprop ro.meta.app.attribution fb,ig

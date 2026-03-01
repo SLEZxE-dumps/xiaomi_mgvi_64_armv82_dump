@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cust_features>
+    <cust_feature>
+        <bool name="thermal_new_scenario_enabled">false</bool>
+        <string-array name="miui_mtk_perf_boost_config">
+            <item>0x00400000</item>
+            <item>1000000</item>
+            <item>0x00400100</item>
+            <item>2000000</item>
+            <item>0x01000000</item>
+            <item>0</item>
+            <item>0x00c00000</item>
+            <item>0</item>
+        </string-array>
+        <integer name="mtk_legacy_sar_type">7</integer>
+        <bool name="support_modem_express_bool">true</bool>
+        <bool name="wms_skipsync_wallpaperwindow">false</bool>
+        <integer name="config_wifi_sar_pattern">8</integer>
+        <bool name="input_scroller_optimization_normal_support">true</bool>
+    </cust_feature>
+</cust_features>

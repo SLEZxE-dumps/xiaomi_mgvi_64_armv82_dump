@@ -1,0 +1,14 @@
+# missi-user 16 BP2A.250605.031.A3 OS3.0.4.0.WNOEUXM release-keys
+- manufacturer: alps
+- platform: common
+- codename: mgvi_64_armv82
+- flavor: missi-user
+- release: 16
+- id: BP2A.250605.031.A3
+- incremental: OS3.0.4.0.WNOEUXM
+- tags: release-keys
+- fingerprint: Xiaomi/hal_mgvi_64_armv82_mt6886_eea/mgvi_64_armv82:13/TP1A.220624.014/OS3.0.4.0.WNOEUXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-16-BP2A.250605.031.A3-OS3.0.4.0.WNOEUXM-release-keys
+- repo: xiaomi_mgvi_64_armv82_dump
